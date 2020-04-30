@@ -2,7 +2,10 @@
 <html>
  <body>
     	<h1>My Passion Project
+
       </h1>
    	<p> Bucket$$$.</p>
+    	<b>text to bold</b>
+	<u>text to underline</u>
  </body>
 </html>
